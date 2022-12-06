@@ -19,7 +19,8 @@ NOTE 2: The 0x0 (empty matrix) is represented as en empty array inside an array 
 
 
 //This was quite challenging but very enjoyable
-//I definitely ended up with too many counter variable which i may come back to to make more efficient in the future
+//I definitely ended up with too many counter variables which i may come back to to make more efficient in the future
+// - Shortly learned after that you can actually set and iterate more than 1 variable in the for loop itself
 
 import java.util.Arrays;
 import java.lang.Math;
